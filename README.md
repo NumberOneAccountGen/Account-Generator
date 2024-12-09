@@ -51,16 +51,16 @@ python discordgenerator.py
 - Only run this when you have proxies or else one of you Chrome windows will get rate limited.
 - Do put more than 6 threads unless you think your PC can handle it. I recommend using 2-3 threads.
 
-#### No Threading
-- This only uses one chrome window. 
+## No Threading
+#### - This only uses one chrome window. 
 
-#### FAQ
-Where can i find my generated accounts?
+## FAQ
+#### Where can i find my generated accounts?
 
 It is located in the output folder. Open up login.txt to see the accounts that has been generated.
 
 
-Where do i download it?
+####Where do i download it?
 
 Go to releases and download "Release.zip".
 
