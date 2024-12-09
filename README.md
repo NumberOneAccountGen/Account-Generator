@@ -1,14 +1,8 @@
-# Discord-Account-Generator
-Proof of concept of how the creation of Discord accounts can be automated without the need to type/click buttons on browser.
+[# Discord-Account-Generator
+Proof of concept of how the creation of accounts can be automated without the need to type/click buttons on browser.
 
 ## About
-A script that automates creating discord accounts. It shows how accounts can be created automatically without the user typing unless there is a captcha (h-Captcha just needs to be clicked) . It automatically verifies your Discord account via email for you and automatically saves login info in `login.txt` in `email:password:token` format. This is used for educational purposes only.
-
-## Chromedriver Fix
-If Chrome doesn't open/crashes, try getting the latest version of chromedriver.exe here > https://chromedriver.chromium.org/downloads. Replace the current chromedriver.exe in the folder with the latest version you have downloaded
-
-Make sure your chromedriver.exe file is the same version as your current Chrome web browser version. To check your current Chrome version,
-paste chrome://settings/help in chrome.
+A script that automates creating discord accounts. It shows how accounts can be created automatically without the user typing unless there is a captcha (h-Captcha just needs to be clicked) . It automatically verifies your account via email for you and automatically saves login info in `login.txt` in `email:password:token` format. This is used for educational purposes only.
 
 ## Features
 - Auto scrape email
@@ -21,11 +15,12 @@ paste chrome://settings/help in chrome.
 - Multi-threading
 
 ## Preview
-![Picture](https://i.ibb.co/SvsPwrD/Screenshot-525.png)
+![Picture](https://i.ibb.co/dtsxJBj/AA0-E4001-3737-4-FCD-9-FA1-601-C12500-BDE.png)
 
 ## Usage
 1. You can customize usernames by editing the usernames in discord_usernames.txt.
 2. Run the file and use normal mode if you are a inexperienced with proxies and theading.
+3. If discordgenerator.py does not run, run chromedriver first.
 
 ### Get Python
 If you dont have python installed, download python 3.7.6
@@ -65,3 +60,4 @@ Where can i found my generated accounts?
 1. It is located in the output folder. Open up login.txt to see the accounts 
 that has been generated.
 
+](https://i.ibb.co/dtsxJBj/AA0-E4001-3737-4-FCD-9-FA1-601-C12500-BDE.png)
