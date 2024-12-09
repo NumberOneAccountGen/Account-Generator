@@ -55,9 +55,7 @@ python discordgenerator.py
 - This only uses one chrome window. 
 
 #### FAQ
-Where can i found my generated accounts?
+Where can i find my generated accounts?
 
 1. It is located in the output folder. Open up login.txt to see the accounts 
 that has been generated.
-
-](https://i.ibb.co/dtsxJBj/AA0-E4001-3737-4-FCD-9-FA1-601-C12500-BDE.png)
