@@ -59,8 +59,7 @@ python discordgenerator.py
 
 It is located in the output folder. Open up login.txt to see the accounts that has been generated.
 
-
-####Where do i download it?
+#### Where do i download it?
 
 Go to releases and download "Release.zip".
 
