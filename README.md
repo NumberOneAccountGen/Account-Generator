@@ -56,6 +56,9 @@ python discordgenerator.py
 
 #### FAQ
 Where can i find my generated accounts?
+It is located in the output folder. Open up login.txt to see the accounts that has been generated.
 
-1. It is located in the output folder. Open up login.txt to see the accounts 
-that has been generated.
+Where do i download it?
+Go to releases and download "Release.zip".
+
+
